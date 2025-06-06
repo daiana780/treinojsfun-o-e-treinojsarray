@@ -1,1 +1,1 @@
-Atividade de funções e de Arraya.
+Atividade de funções e de Array.
