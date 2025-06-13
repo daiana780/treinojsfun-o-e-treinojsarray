@@ -1,1 +1,1 @@
-Atividade de funções e de Array.
+Atividade de funções e de Array. Linguagem HTML.
